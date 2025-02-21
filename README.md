@@ -1,10 +1,6 @@
 For windows just compile joingui.py with pyinstaller.
 
-Use ffmpeg from:
-https://github.com/BtbN/FFmpeg-Builds/releases
-and download:
-ffmpeg-n7.1-latest-win64-gpl-shared-7.1.zip
-Name it "FFmpeg" and place in C dir.
+https://www.wikihow.com/Install-FFmpeg-on-Windows
 
 Add C:\FFmpeg\bin to your system's PATH environment variable to enable FFmpeg command access globally from the command line.
 
