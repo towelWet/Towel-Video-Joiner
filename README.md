@@ -1,5 +1,10 @@
 For windows just compile joingui.py with pyinstaller.
 
+Use ffmpeg from:
+https://github.com/BtbN/FFmpeg-Builds/releases
+and download:
+ffmpeg-n7.1-latest-win64-gpl-shared-7.1.zip
+
 Had to use this to compile with pyinstaller on mac:
 /usr/local/bin/python3 -m pip install moviepy==1.0.3
 
