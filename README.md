@@ -6,6 +6,8 @@ and download:
 ffmpeg-n7.1-latest-win64-gpl-shared-7.1.zip
 Name it "FFmpeg" and place in C dir.
 
+Add C:\FFmpeg\bin to your system's PATH environment variable to enable FFmpeg command access globally from the command line.
+
 Had to use this to compile with pyinstaller on mac:
 /usr/local/bin/python3 -m pip install moviepy==1.0.3
 
